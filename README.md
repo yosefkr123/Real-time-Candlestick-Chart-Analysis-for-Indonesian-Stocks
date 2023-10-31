@@ -15,5 +15,9 @@ Here is the algorithm used for linear regression in the program:
 ## 5. Adding the Trend Line to the Chart
    - The generated trend line is added to the candlestick chart using Plotly. This allows users to visualize stock price trends in the real-time updating candlestick chart.
 
+##
+Before running this program, there are several steps you should take. First, make sure you have installed the required packages, namely yfinance and plotly, using the commands pip install yfinance and pip install plotly. Ensure that your computer is connected to the internet because this program retrieves real-time stock data from the web. Additionally, it is advisable to have a basic understanding of candlestick charts and technical stock analysis to interpret the displayed data effectively.
+Finally, when running the program, you will be prompted to enter the stock symbol you want to monitor. Make sure the stock symbol you input is accurate and corresponds to the stock you intend to track. Once you have prepared all these aspects, you can run the program and begin monitoring real-time stock data while observing a candlestick chart with a trend line. The program will automatically update the data every 5 minutes as per the specified interval.
+
 ## Example Program Output
 ![image](https://github.com/yosefkr123/Real-time-Candlestick-Chart-Analysis-for-Indonesian-Stocks/assets/145518481/80820d02-50d0-4c07-880b-857d673730f3)

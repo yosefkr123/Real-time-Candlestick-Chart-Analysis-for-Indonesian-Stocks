@@ -14,3 +14,6 @@ Here is the algorithm used for linear regression in the program:
    - After obtaining the values of m and c, the program creates a trend line with the linear equation Y = mX + c. Data X (time) and predicted Y (stock prices) are used to create the trend line.
 ## 5. Adding the Trend Line to the Chart
    - The generated trend line is added to the candlestick chart using Plotly. This allows users to visualize stock price trends in the real-time updating candlestick chart.
+
+## Example Program Output
+![image](https://github.com/yosefkr123/Real-time-Candlestick-Chart-Analysis-for-Indonesian-Stocks/assets/145518481/80820d02-50d0-4c07-880b-857d673730f3)
